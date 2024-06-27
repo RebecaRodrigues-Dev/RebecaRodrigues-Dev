@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Rebeca Rodrigues 👋🏼
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
-- 🤓 Lifelong Learning. 
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas. 
 - 💻 Apaixonada por tecnologia e programação. 
 - 📲 Conecte-se comigo no Linkedln: https://www.linkedin.com/in/rebeca-rodrigues-da-silva-7875982b6/
 
